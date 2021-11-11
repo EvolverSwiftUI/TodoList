@@ -15,6 +15,7 @@
 		7FA0D765273C4510006A1FF4 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA0D764273C4510006A1FF4 /* ItemModel.swift */; };
 		7FA0D76A273C4A87006A1FF4 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA0D769273C4A87006A1FF4 /* ListViewModel.swift */; };
 		7FA0D76E273CD173006A1FF4 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA0D76D273CD173006A1FF4 /* NoItemsView.swift */; };
+		7FA0D771273CFB63006A1FF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FA0D770273CFB63006A1FF4 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7FA0D764273C4510006A1FF4 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		7FA0D769273C4A87006A1FF4 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		7FA0D76D273CD173006A1FF4 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
+		7FA0D770273CFB63006A1FF4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				7FA0D6C5273C38D3006A1FF4 /* ListView.swift */,
 				7FA0D75E273C4158006A1FF4 /* AddView.swift */,
 				7FA0D76D273CD173006A1FF4 /* NoItemsView.swift */,
+				7FA0D770273CFB63006A1FF4 /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FA0D771273CFB63006A1FF4 /* LaunchScreen.storyboard in Resources */,
 				7FA0D6CB273C38D4006A1FF4 /* Preview Assets.xcassets in Resources */,
 				7FA0D6C8273C38D4006A1FF4 /* Assets.xcassets in Resources */,
 			);
