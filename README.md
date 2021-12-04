@@ -1,5 +1,7 @@
 # TodoList 
 
+**Requirements for this app is SwiftUI_Evolve_1 Repository Covered Concepts.
+
 In this application used the concepts from the beginner level project of SwiftUI_Evolve_1 
 
 The following concepts covered in this mini app
