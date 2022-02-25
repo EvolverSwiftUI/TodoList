@@ -16,7 +16,6 @@ The following concepts covered in this mini app
 7. AppLaunch and App Icons Addons
 8. Support for Dark mode and light mode
 
-![Simulator Screen Shot - iPhone 12 - 2021-11-11 at 13 42 53](https://user-images.githubusercontent.com/93422294/141262125-a4f682df-7690-4699-9059-182148f72dfa.png)
 <img src="https://user-images.githubusercontent.com/93422294/141262125-a4f682df-7690-4699-9059-182148f72dfa.png" width="400" height="790">
 
 ![Simulator Screen Shot - iPhone 12 - 2021-11-11 at 13 42 58](https://user-images.githubusercontent.com/93422294/141262146-260ce0ed-fa8a-4574-a00f-cb99c8a232ab.png)
