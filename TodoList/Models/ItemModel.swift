@@ -8,7 +8,7 @@
 import Foundation
 
 struct ItemModel: Identifiable, Codable {
-    
+    // properties
     let id: String
     let title: String
     let isCompleted: Bool
