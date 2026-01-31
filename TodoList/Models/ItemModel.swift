@@ -12,7 +12,9 @@ struct ItemModel: Identifiable, Codable {
     let id: String
     let title: String
     let isCompleted: Bool
+
     
+    // Initializer
     init(id: String = UUID().uuidString, title: String, isCompleted: Bool) {
         self.id = id
         self.title = title
